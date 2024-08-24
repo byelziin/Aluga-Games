@@ -12,6 +12,6 @@
   - [x] Sentido aos botões. 
 
 
+![b7 icone](https://github.com/user-attachments/assets/14676f0b-feb2-467f-bb41-aec9f2830c72)
 
 
-![b7 icone](https://github.com/user-attachments/assets/4a7e4c57-bab3-465f-8e8f-701933f1e0b2)
