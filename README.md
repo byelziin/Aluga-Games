@@ -1,6 +1,6 @@
 # Aluga-Games 🎮
   
-  Projeto da plataforma **Alura**, disponiblizado pelo **Geração caldeira**.   
+  Projeto da plataforma **Alura**, do curso disponiblizado pelo **Geração caldeira**.   
 
   Finalizei o projeto com a linguagem, `JavaScript`!
 
@@ -10,6 +10,12 @@
   - [x] Soluções dos problemas do web site.
   - [x] Site inteligente.
   - [x] Sentido aos botões. 
+
+***
+
+🚀 Linguagem de programação:
+
+![image](https://github.com/byelziin/numero-secreto/assets/174073319/43a247ff-246a-4430-931a-ec5d6ca6d0e1)
 
 ***
 
