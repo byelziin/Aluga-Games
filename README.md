@@ -2,8 +2,6 @@
   
   Projeto da plataforma **Alura**, do curso disponiblizado pelo **Geração caldeira**.   
 
-  Finalizei o projeto com a linguagem, `JavaScript`!
-
 
   📑 Tarefas: 
   
