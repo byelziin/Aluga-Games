@@ -1,6 +1,6 @@
 # Aluga-Games 🎮
   
-  Projeto da plataforma **Alura**, do curso disponiblizado pelo **Geração caldeira**.   
+ **Projeto de alugar jogos** finalizado, com auxílio do curso de _**lógica de programação com JavaScript**_ na plataforma **Alura**, disponiblizado pelo **Geração Caldeira**.  
 
 
   📑 Tarefas: 
